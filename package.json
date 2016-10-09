@@ -1,0 +1,17 @@
+{
+  "name": "render",
+  "description": "Combines CSV data via a Mustache template and renders each templated row to the console.",
+  "main": "render.js",
+  "dependencies": {
+    "csv": "^1.1.0",
+    "mustache": "^2.2.1",
+    "yargs": "^6.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinmathew/render.git"
+  },
+  "author": "Avin Mathew",
+  "license": "MIT"
+}
